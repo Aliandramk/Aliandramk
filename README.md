@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, welcome to my github profile! 👋
 
-<!--
-**Aliandramk/Aliandramk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Blagoj Todorov and I am a Data Analyst.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Data Analysis with Python and Visualization with Tableau.
+- 👯 I’m open to new projects and opportunities
+
+- 📫 How to reach me: t.blagoj@hotmail.com; https://www.linkedin.com/in/blagoj-todorov-778994108
+
+
+
+<p align="center">
+  <img src="https://github.com/Aliandramkd/Aliandramkd/raw/main/Data%20Analysis%202.webp" height="400px" width="1000px">
+</p>
+<p>
+
+### Main Programming Language :desktop_computer: 
+- Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
